@@ -1,10 +1,10 @@
-#Brackets for a DIY sonic chair
+# Brackets for a DIY sonic chair
 
-![Buttons preview](https://github.com/betaniahemmet/sonic_chair/blob/main/media/sonic_ikea_chair.mp4)
+![Chair preview](https://github.com/betaniahemmet/sonic_chair/blob/main/media/sonic_ikea_chair.gif)
 
-##Description
+## Description
 
-#A sonic chair to experience the lower end of music as a tactile feeling.
+# A sonic chair to experience the lower end of music as a tactile feeling.
 
 This is just stl-files to 3d-print to fit into an IKEA poäng chair.
 You will also need:

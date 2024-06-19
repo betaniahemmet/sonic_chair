@@ -4,7 +4,7 @@
 
 ## Description
 
-# A sonic chair to experience the lower end of music as a tactile feeling.
+### Parts for a sonic chair to experience the lower end of music as a tactile feeling.
 
 This is just stl-files to 3d-print to fit into an IKEA poäng chair.
 You will also need:
